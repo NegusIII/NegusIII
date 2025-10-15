@@ -11,7 +11,7 @@
 ### No diagnosticado pero todos lo sabemos
 
 <p>
-  Cafeinómano sin remedio, mi próximo objetivo es apropiarme de lo poco que me queda de cadena de producción del café que consumo <br>
+  Cafeinómano sin remedio, mi próximo objetivo es apropiarme de lo poco que me queda de cadena de producción del café que consumo.
   A veces hasta recibo vitamina D
 </p>
 
